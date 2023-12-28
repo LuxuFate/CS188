@@ -1,8 +1,6 @@
 # CS188: Introduction to Artificial Intelligence
 
-CS188 introduces the basic ideas and techniques underlying the design of intelligent computer systems with a specific emphasis on the statistical and decision-theoretic modeling paradigm. By the end of the course, you will have built autonomous agents that efficiently make decisions in stochastic and in adversarial settings, drawn inferences in uncertain environments, optimized actions for arbitrary reward structures, and created machine learning algorithms.
-
-I have built autonomous agents that efficiently make decisions in fully informed, partially observable, and adversarial settings. My agents draw inferences in uncertain environments and optimize actions for arbitrary reward structures. My machine learning algorithms will classify handwritten digits and photographs. The techniques in this course apply to a wide variety of artificial intelligence problems and will serve as the foundation for further study in any application area further pursued.
+CS188 introduces the basic ideas and techniques underlying the design of intelligent computer systems with a specific emphasis on the statistical and decision-theoretic modeling paradigm. By the end of the course, you will have built autonomous agents that efficiently make decisions in stochastic and in adversarial settings, drawn inferences in uncertain environments, optimized actions for arbitrary reward structures, and created machine learning algorithms. The techniques in this course apply to a wide variety of artificial intelligence problems and will serve as the foundation for further study in any application area further pursued.
 
 ## **Important Links:**
 
